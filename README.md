@@ -55,20 +55,20 @@ Python • TensorFlow/PyTorch • Jupyter Notebook • Pandas
 Git • GitHub • Docker • Linux • VS Code • Jekyll
 
 ### 🚀 Dự án nổi bật
-- **[Tên dự án 1]** — Mô tả ngắn + link GitHub/Demo
-- **[Tên dự án 2]** — AI Chatbot / Website thương mại điện tử / ...
-- **[Tên dự án 3]** — ...
+- **[Luôn Demo]** — Mô tả ngắn + link GitHub/Demo
+- **[Chém gió]** — AI Chatbot / Website thương mại điện tử / ...
+- **[Tiếp nữa]** — ...
 
 *(Bạn có thể thay bằng link thực tế từ phần Projects trong al-folio)*
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=loihuynh0210&show_icons=true&theme=radical)
+![GitHub Stats]🚀
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loihuynh0210&layout=compact&theme=radical)
+![Top Languages]🚀
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Huỳnh Đức Lợi • Lập trình viên Việt Nam</p>
+  <p>Được tạo ❤️ bởi Huỳnh Đức Lợi • Lập trình viên Việt Nam</p>
   <p>© 2026 • Cảm ơn bạn đã ghé thăm!</p>
 </div>
