@@ -59,7 +59,7 @@ Git • GitHub • Docker • Linux • VS Code • Jekyll
 - **[Chém gió]** — AI Chatbot / Website thương mại điện tử / ...
 - **[Tiếp nữa]** — ...
 
-*(Bạn có thể thay bằng link thực tế từ phần Projects trong al-folio)*
+*(Bạn có thể thay bằng link thực tế từ phần dự án thực tế tưởng tượng)*
 
 ### 📊 GitHub Stats
 ![GitHub Stats]🚀
